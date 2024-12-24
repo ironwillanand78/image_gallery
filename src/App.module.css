@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parentDiv{
+    display: flex;
+    gap: 20px;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
